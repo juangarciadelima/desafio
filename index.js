@@ -35,3 +35,9 @@ console.log(
     { manteiga: 2, farinha: 2, oleo: 2 }
   )
 )
+
+//Math.floor = Arredonda o número para baixo
+
+// Math.min = Retorna o menor número entre todos os apresentados
+
+// Object.Keys = Organiza em forma de array, todas as propriedades do objeto. Ex : {banana: 1, melancia: 2} => [banana, melancia]
